@@ -1,4 +1,4 @@
-![2](https://github.com/pupba/Trash-Eater/assets/53106728/ae5d78ae-92ce-4a27-8ed4-61a72f88849c)# TrashEater
+# TrashEater
 
 이 프로젝트는 Tensorflow.js를 사용하여 쓰레기를 분류하고 포인트를 얻어 그 포인트로 자신의 캐릭터를 키우는 스마트폰 APP 입니다.
 
